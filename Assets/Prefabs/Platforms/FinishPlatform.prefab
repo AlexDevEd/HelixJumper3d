@@ -49,6 +49,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7353f0ec3445f6948997fa8ed02c2a25, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _bounceForce: 0
+  _bounceRadius: 0
 --- !u!1001 &1880568813272953599
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -107,7 +109,7 @@ PrefabInstance:
     - target: {fileID: 7478146382181474048, guid: e11009858d5b6e8499ef8d4c5aa3c1b8, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: a051e486754e0124b9c4a9aad16b6b5a, type: 2}
+      objectReference: {fileID: 2100000, guid: 90c34d8f7e600e54281bdb28c9b6661b, type: 2}
     - target: {fileID: 9222070830171597788, guid: e11009858d5b6e8499ef8d4c5aa3c1b8, type: 3}
       propertyPath: m_Name
       value: Helix (1)
@@ -177,7 +179,7 @@ PrefabInstance:
     - target: {fileID: 7478146382181474048, guid: e11009858d5b6e8499ef8d4c5aa3c1b8, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: a051e486754e0124b9c4a9aad16b6b5a, type: 2}
+      objectReference: {fileID: 2100000, guid: 90c34d8f7e600e54281bdb28c9b6661b, type: 2}
     - target: {fileID: 9222070830171597788, guid: e11009858d5b6e8499ef8d4c5aa3c1b8, type: 3}
       propertyPath: m_Name
       value: Helix (5)
@@ -247,7 +249,7 @@ PrefabInstance:
     - target: {fileID: 7478146382181474048, guid: e11009858d5b6e8499ef8d4c5aa3c1b8, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: a051e486754e0124b9c4a9aad16b6b5a, type: 2}
+      objectReference: {fileID: 2100000, guid: 90c34d8f7e600e54281bdb28c9b6661b, type: 2}
     - target: {fileID: 9222070830171597788, guid: e11009858d5b6e8499ef8d4c5aa3c1b8, type: 3}
       propertyPath: m_Name
       value: Helix (3)
@@ -317,7 +319,7 @@ PrefabInstance:
     - target: {fileID: 7478146382181474048, guid: e11009858d5b6e8499ef8d4c5aa3c1b8, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: a051e486754e0124b9c4a9aad16b6b5a, type: 2}
+      objectReference: {fileID: 2100000, guid: 90c34d8f7e600e54281bdb28c9b6661b, type: 2}
     - target: {fileID: 9222070830171597788, guid: e11009858d5b6e8499ef8d4c5aa3c1b8, type: 3}
       propertyPath: m_Name
       value: Helix (2)
@@ -387,7 +389,7 @@ PrefabInstance:
     - target: {fileID: 7478146382181474048, guid: e11009858d5b6e8499ef8d4c5aa3c1b8, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: a051e486754e0124b9c4a9aad16b6b5a, type: 2}
+      objectReference: {fileID: 2100000, guid: 90c34d8f7e600e54281bdb28c9b6661b, type: 2}
     - target: {fileID: 9222070830171597788, guid: e11009858d5b6e8499ef8d4c5aa3c1b8, type: 3}
       propertyPath: m_Name
       value: Helix
@@ -457,7 +459,7 @@ PrefabInstance:
     - target: {fileID: 7478146382181474048, guid: e11009858d5b6e8499ef8d4c5aa3c1b8, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: a051e486754e0124b9c4a9aad16b6b5a, type: 2}
+      objectReference: {fileID: 2100000, guid: 90c34d8f7e600e54281bdb28c9b6661b, type: 2}
     - target: {fileID: 9222070830171597788, guid: e11009858d5b6e8499ef8d4c5aa3c1b8, type: 3}
       propertyPath: m_Name
       value: Helix (4)
